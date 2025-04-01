@@ -1,0 +1,15 @@
+ 1994  git status
+ 1995  vim second-test.sh
+ 1996  cat second-test.sh
+ 1997  git status
+ 1998  add test-shell.sh
+ 1999  git add test-shell.sh
+ 2000  git status
+ 2001  git commit -m "added test shell"
+ 2002  git status
+ 2003  rm test-shell.sh
+ 2004  git status
+ 2005  git restore test-shell.sh
+ 2006  ls
+ 2007  history
+
